@@ -9,7 +9,7 @@ displayed to the terminal window. The program reads text files, makes web calls,
 
 The program is broken into several distinct steps that run across many different goroutines. We will explore the code as it flows from the main goroutine into the searching and tracking goroutines and then back to the main goroutine. To start, let's review the structure of the project:
 
-*cd $GOPATH/src/github.com/ArdanStudios/go_in_action/sample*
+*cd $GOPATH/src/github.csv.comcast.com/VariousArtists/gotraining/go_in_action/sample*
 
 * **sample**
 	* **data**

@@ -14,7 +14,7 @@ package main
 import (
 	"testing"
 
-	"github.com/ArdanStudios/gotraining/08-testing/example1/buoy"
+	"github.csv.comcast.com/VariousArtists/gotraining/gotraining/08-testing/example1/buoy"
 )
 
 // BenchmarkStation provides stats for how this code is performing.
@@ -27,7 +27,7 @@ func BenchmarkStation(b *testing.B) {
 
 /*
 	100         78480563 ns/op
-	ok      github.com/ArdanStudios/gotraining/08-testing/example1/tests/benchmarks 7.962s
+	ok      github.csv.comcast.com/VariousArtists/gotraining/gotraining/08-testing/example1/tests/benchmarks 7.962s
 
 	Test ran for 7.962 seconds
 	It takes 78480563 nanoseconds (0.078 seconds) to run FindStation
