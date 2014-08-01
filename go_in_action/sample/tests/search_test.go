@@ -6,7 +6,7 @@ package tests
 import (
 	"testing"
 
-	"github.csv.comcast.com/VariousArtists/gotraining/gotraining/go_in_action/sample/search"
+	"github.csv.comcast.com/VariousArtists/gotraining/go_in_action/sample/search"
 )
 
 // testMatcher implements the test matcher.

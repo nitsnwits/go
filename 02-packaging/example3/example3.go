@@ -5,7 +5,7 @@ package main
 import (
 	"fmt"
 
-	"github.csv.comcast.com/VariousArtists/gotraining/gotraining/02-packaging/example3/counters"
+	"github.csv.comcast.com/VariousArtists/gotraining/02-packaging/example3/counters"
 )
 
 // main is the entry point for the application.

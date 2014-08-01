@@ -6,7 +6,7 @@ package main
 import (
 	"testing"
 
-	"github.csv.comcast.com/VariousArtists/gotraining/gotraining/08-testing/example1/buoy"
+	"github.csv.comcast.com/VariousArtists/gotraining/08-testing/example1/buoy"
 )
 
 // TestStation checks the station service call is working

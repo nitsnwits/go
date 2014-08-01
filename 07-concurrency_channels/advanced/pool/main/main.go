@@ -9,7 +9,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.csv.comcast.com/VariousArtists/gotraining/gotraining/07-concurrency_channels/advanced/pool"
+	"github.csv.comcast.com/VariousArtists/gotraining/07-concurrency_channels/advanced/pool"
 )
 
 const (
